@@ -109,9 +109,9 @@
   transition: width var(--transition-base);
 }
 
-body {
+/* body {
   padding-top: 88px;
-}
+} */
 
 .header__nav-link:hover::after,
 .header__nav-link--active::after {
@@ -207,7 +207,7 @@ body {
     font-size: 0.65rem;
   }
 
-    body {
+    /* body {
       padding-top: 72px;
-    }
+    } */
 }

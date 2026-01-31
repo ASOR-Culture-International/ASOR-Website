@@ -109,6 +109,10 @@
   transition: width var(--transition-base);
 }
 
+body {
+  padding-top: 88px;
+}
+
 .header__nav-link:hover::after,
 .header__nav-link--active::after {
   width: 100%;
@@ -147,6 +151,10 @@
 
 /* Mobile Responsive */
 @media (max-width: 968px) {
+  .header {
+      height: 72px;
+  }
+
   .header__mobile-toggle {
     display: flex;
   }
@@ -188,6 +196,7 @@
 @media (max-width: 768px) {
   .header__logo-image img {
     height: 36px;
+    max-height: 40px;
   }
 
   .header__logo-primary {
@@ -197,4 +206,8 @@
   .header__logo-secondary {
     font-size: 0.65rem;
   }
+
+    body {
+      padding-top: 72px;
+    }
 }

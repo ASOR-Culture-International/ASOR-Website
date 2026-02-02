@@ -47,7 +47,7 @@ const Founder = () => {
       <div className="founder-hero">
         <div className="founder-hero__content container">
           <p className="founder-hero__label">Meet the Founder</p>
-          <h1 className="founder-hero__title">Temitope Elizabeth Momoh</h1>
+          <h1 className="founder-hero__title">Temitope Momoh</h1>
           <p className="founder-hero__subtitle">
             Purpose Advocate • Transformation Coach • Community Builder
           </p>
@@ -72,7 +72,7 @@ const Founder = () => {
           <div className="founder-bio__content">
             <h2 className="founder-bio__title">About Temitope</h2>
             <p className="founder-bio__text">
-              Temitope Elizabeth Momoh is a passionate advocate for purpose-driven living and 
+              Temitope Momoh is a passionate advocate for purpose-driven living and 
               personal transformation. With over a decade of experience in personal development, 
               coaching, and organizational training, she has dedicated her career to helping 
               individuals and organizations discover their unique calling and maximize their potential.

@@ -2,11 +2,11 @@
 
 A professional, scalable, and responsive organizational website built with React, designed to communicate purpose, transformation, and community impact.
 
-## 🎯 Project Overview
+## Project Overview
 
 ASOR Culture International is a transformative organization dedicated to helping individuals discover their purpose and live lives of intentional impact. This website showcases the organization's programs, mission, and founder while providing a seamless user experience across all devices.
 
-## ✨ Features
+## Features
 
 - **Modern React Architecture**: Built with functional components and hooks
 - **Fully Responsive**: Mobile-first design that works beautifully on all devices
@@ -17,14 +17,14 @@ ASOR Culture International is a transformative organization dedicated to helping
 - **Accessible**: WCAG compliant with proper ARIA labels
 - **Future-Ready**: Prepared for CMS integration and API connections
 
-## 🎨 Brand Colors
+## Brand Colors
 
 - **Primary (Deep Royal Purple)**: `#66345C` - Headers, primary elements
 - **Secondary (Rich Gold)**: `#CEB031` - CTAs, highlights
 - **Accent (Soft Gold)**: `#C3AD4F` - Subtle accents
 - **Dark (Deep Plum)**: `#512F4A` - Footer, depth
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 asor-website/
@@ -51,7 +51,7 @@ asor-website/
 └── README.md              # This file
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -78,7 +78,7 @@ asor-website/
 4. **Open your browser**
    Navigate to `http://localhost:5173`
 
-## 📄 Pages
+## Pages
 
 ### Home Page
 - Hero section with compelling headline
@@ -115,7 +115,7 @@ asor-website/
 - Office hours
 - Map placeholder
 
-## 🎨 Customization
+## Customization
 
 ### Changing Colors
 
@@ -155,13 +155,13 @@ All text content is directly in the component files for easy editing:
 - Modify arrays for programs, achievements, values, etc.
 - Replace image placeholders with actual images
 
-## 📱 Responsive Breakpoints
+## Responsive Breakpoints
 
 - Mobile: < 640px
 - Tablet: 640px - 968px
 - Desktop: > 968px
 
-## 🔧 Build & Deployment
+## Build & Deployment
 
 ### Build for Production
 
@@ -197,7 +197,7 @@ This creates an optimized build in the `dist/` folder.
 
 Or simply drag the `dist/` folder to Netlify's web interface.
 
-## 🔌 Future Enhancements
+## Future Enhancements
 
 ### CMS Integration
 
@@ -228,7 +228,7 @@ Add Google Analytics or similar:
 <script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
 ```
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React 18**: UI framework
 - **React Router 6**: Client-side routing
@@ -236,7 +236,7 @@ Add Google Analytics or similar:
 - **CSS3**: Styling with CSS variables
 - **Google Fonts**: Typography
 
-## 📝 Component Usage
+## Component Usage
 
 ### Button Component
 
@@ -274,7 +274,7 @@ import SectionWrapper from './components/SectionWrapper';
 </SectionWrapper>
 ```
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Port Already in Use
 
@@ -292,17 +292,17 @@ rm package-lock.json
 npm install
 ```
 
-## 📞 Support
+## Support
 
 For questions or issues:
 - Email: info@asorculture.org
 - Create an issue in the repository
 
-## 📜 License
+## License
 
 © 2024 ASOR Culture International. All rights reserved.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Built with modern web technologies and best practices for optimal performance and user experience.
 

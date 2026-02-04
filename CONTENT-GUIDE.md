@@ -168,7 +168,7 @@ Copy an existing program object and modify:
 Find around line 70:
 ```jsx
 <p className="founder-bio__text">
-  Temitope Elizabeth Momoh is a passionate advocate...
+  Temitope Momoh is a passionate advocate...
 </p>
 ```
 

@@ -159,9 +159,9 @@ const Home = () => {
           </div>
           <div className="founder-preview__content">
             <p className="founder-preview__label">Meet Our Founder</p>
-            <h2 className="founder-preview__name">Temitope Elizabeth Momoh</h2>
+            <h2 className="founder-preview__name">Temitope Momoh</h2>
             <p className="founder-preview__bio">
-              A passionate advocate for purpose-driven living, Temitope Elizabeth Momoh 
+              A passionate advocate for purpose-driven living, Temitope Momoh 
               has dedicated her career to helping individuals and organizations discover 
               their unique calling and maximize their potential. With over a decade of 
               experience in personal development and organizational transformation, she 
